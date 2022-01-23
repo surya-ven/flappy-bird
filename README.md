@@ -1,4 +1,4 @@
-# Flapyy Bird 
+# Flappy Bird 
 Flappy bird made using Java and Bagel for a university project. The game has 2 levels.
 
 ## Bagel
